@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these curated laboratory datasets in your research or software, please cite it as below."
+authors:
+  - family-names: "Vladimirov"
+    given-names: "Kirill"
+title: "Open Laboratory Datasets & Bench Constants"
+version: 1.0.0
+date-released: 2026-10-19
+url: "https://github.com/meniska-app/open-lab-datasets"
