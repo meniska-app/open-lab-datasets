@@ -1,0 +1,102 @@
+[
+  {
+    "id": "EMBOSS",
+    "name": "EMBOSS",
+    "description": "Стандарт EMBOSS iep (биоинформатика)",
+    "nTerminus": 8.6,
+    "cTerminus": 3.6,
+    "cys": 8.5,
+    "asp": 3.9,
+    "glu": 4.1,
+    "his": 6.5,
+    "lys": 10.8,
+    "arg": 12.5,
+    "tyr": 10.1,
+    "pKaValues": {
+      "N_term": 8.6,
+      "C_term": 3.6,
+      "C": 8.5,
+      "D": 3.9,
+      "E": 4.1,
+      "H": 6.5,
+      "K": 10.8,
+      "R": 12.5,
+      "Y": 10.1
+    }
+  },
+  {
+    "id": "Lehninger",
+    "name": "Lehninger",
+    "description": "Классическая биохимическая шкала Ленинджера",
+    "nTerminus": 9.69,
+    "cTerminus": 2.34,
+    "cys": 8.33,
+    "asp": 3.86,
+    "glu": 4.25,
+    "his": 6.0,
+    "lys": 10.5,
+    "arg": 12.48,
+    "tyr": 10.0,
+    "pKaValues": {
+      "N_term": 9.69,
+      "C_term": 2.34,
+      "C": 8.33,
+      "D": 3.86,
+      "E": 4.25,
+      "H": 6.0,
+      "K": 10.5,
+      "R": 12.48,
+      "Y": 10.0
+    }
+  },
+  {
+    "id": "Bjellqvist",
+    "name": "Bjellqvist",
+    "description": "Шкала ExPASy ProtParam / 2D-электрофорез",
+    "nTerminus": 7.5,
+    "cTerminus": 3.55,
+    "cys": 9.0,
+    "asp": 4.05,
+    "glu": 4.45,
+    "his": 5.98,
+    "lys": 10.0,
+    "arg": 12.0,
+    "tyr": 10.0,
+    "pKaValues": {
+      "N_term": 7.5,
+      "C_term": 3.55,
+      "C": 9.0,
+      "D": 4.05,
+      "E": 4.45,
+      "H": 5.98,
+      "K": 10.0,
+      "R": 12.0,
+      "Y": 10.0
+    }
+  },
+  {
+    "id": "IPC_2_0",
+    "name": "IPC 2.0",
+    "description": "Isoelectric Point Calculator 2.0 (Kozlowski 2021)",
+    "nTerminus": 8.23,
+    "cTerminus": 2.86,
+    "cys": 7.55,
+    "asp": 3.87,
+    "glu": 4.31,
+    "his": 6.45,
+    "lys": 10.52,
+    "arg": 11.84,
+    "tyr": 10.07,
+    "pKaValues": {
+      "N_term": 8.23,
+      "C_term": 2.86,
+      "C": 7.55,
+      "D": 3.87,
+      "E": 4.31,
+      "H": 6.45,
+      "K": 10.52,
+      "R": 11.84,
+      "Y": 10.07
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "p2",
+    "model": "P2 (0.2–2 мкл)",
+    "minVolumeUl": "0.2",
+    "nominalVolumeUl": "2",
+    "systematicErrorPercent": "±1.5% (±0.03 мкл)",
+    "randomErrorPercent": "≤0.75% (≤0.015 мкл)",
+    "colorCodeRu": "Серый / Оранжевый (Ультрамикро)"
+  },
+  {
+    "id": "p10",
+    "model": "P10 (1–10 мкл)",
+    "minVolumeUl": "1",
+    "nominalVolumeUl": "10",
+    "systematicErrorPercent": "±1.2% (±0.12 мкл)",
+    "randomErrorPercent": "≤0.80% (≤0.08 мкл)",
+    "colorCodeRu": "Серый / Розовый (10 мкл)"
+  },
+  {
+    "id": "p20",
+    "model": "P20 (2–20 мкл)",
+    "minVolumeUl": "2",
+    "nominalVolumeUl": "20",
+    "systematicErrorPercent": "±1.0% (±0.20 мкл)",
+    "randomErrorPercent": "≤0.50% (≤0.10 мкл)",
+    "colorCodeRu": "Желтый (20–200 мкл)"
+  },
+  {
+    "id": "p100",
+    "model": "P100 (10–100 мкл)",
+    "minVolumeUl": "10",
+    "nominalVolumeUl": "100",
+    "systematicErrorPercent": "±0.8% (±0.80 мкл)",
+    "randomErrorPercent": "≤0.30% (≤0.30 мкл)",
+    "colorCodeRu": "Желтый (20–200 мкл)"
+  },
+  {
+    "id": "p200",
+    "model": "P200 (20–200 мкл)",
+    "minVolumeUl": "20",
+    "nominalVolumeUl": "200",
+    "systematicErrorPercent": "±0.8% (±1.60 мкл)",
+    "randomErrorPercent": "≤0.30% (≤0.60 мкл)",
+    "colorCodeRu": "Желтый (20–200 мкл)"
+  },
+  {
+    "id": "p1000",
+    "model": "P1000 (100–1000 мкл)",
+    "minVolumeUl": "100",
+    "nominalVolumeUl": "1000",
+    "systematicErrorPercent": "±0.8% (±8.0 мкл)",
+    "randomErrorPercent": "≤0.30% (≤3.0 мкл)",
+    "colorCodeRu": "Синий (1000 мкл)"
+  },
+  {
+    "id": "p5000",
+    "model": "P5000 (1.0–5.0 мл)",
+    "minVolumeUl": "1000",
+    "nominalVolumeUl": "5000",
+    "systematicErrorPercent": "±0.8% (±40 мкл)",
+    "randomErrorPercent": "≤0.30% (≤15 мкл)",
+    "colorCodeRu": "Фиолетовый / Белый (Макро 5 мл)"
+  },
+  {
+    "id": "mc_p10",
+    "model": "MC-P10 (8/12 кан., 1–10 мкл)",
+    "minVolumeUl": "1",
+    "nominalVolumeUl": "10",
+    "systematicErrorPercent": "±2.4% (±0.24 мкл)",
+    "randomErrorPercent": "≤1.60% (≤0.16 мкл)",
+    "colorCodeRu": "Многоканальный 8/12ch (Розовый)"
+  },
+  {
+    "id": "mc_p50",
+    "model": "MC-P50 (8/12 кан., 5–50 мкл)",
+    "minVolumeUl": "5",
+    "nominalVolumeUl": "50",
+    "systematicErrorPercent": "±2.0% (±1.00 мкл)",
+    "randomErrorPercent": "≤0.80% (≤0.40 мкл)",
+    "colorCodeRu": "Многоканальный 8/12ch (Желтый/Зеленый)"
+  },
+  {
+    "id": "mc_p300",
+    "model": "MC-P300 (8/12 кан., 20–300 мкл)",
+    "minVolumeUl": "20",
+    "nominalVolumeUl": "300",
+    "systematicErrorPercent": "±1.6% (±4.80 мкл)",
+    "randomErrorPercent": "≤0.60% (≤1.80 мкл)",
+    "colorCodeRu": "Многоканальный 8/12ch (Оранжевый)"
+  },
+  {
+    "id": "microman_m10",
+    "model": "Microman M10 (1–10 мкл, Позит. вытеснение)",
+    "minVolumeUl": "1",
+    "nominalVolumeUl": "10",
+    "systematicErrorPercent": "±1.5% (±0.15 мкл)",
+    "randomErrorPercent": "≤0.60% (≤0.06 мкл)",
+    "colorCodeRu": "CP10 капилляр-поршень (глицерин / ПЭГ / ферменты)"
+  },
+  {
+    "id": "microman_m100",
+    "model": "Microman M100 (10–100 мкл, Позит. вытеснение)",
+    "minVolumeUl": "10",
+    "nominalVolumeUl": "100",
+    "systematicErrorPercent": "±1.0% (±1.00 мкл)",
+    "randomErrorPercent": "≤0.40% (≤0.40 мкл)",
+    "colorCodeRu": "CP100 капилляр-поршень (вязкие и летучие жидкости)"
+  },
+  {
+    "id": "microman_m1000",
+    "model": "Microman M1000 (100–1000 мкл, Позит. вытеснение)",
+    "minVolumeUl": "100",
+    "nominalVolumeUl": "1000",
+    "systematicErrorPercent": "±0.8% (±8.00 мкл)",
+    "randomErrorPercent": "≤0.30% (≤3.00 мкл)",
+    "colorCodeRu": "CP1000 капилляр-поршень (кровь / суспензии / масла)"
+  }
+]
