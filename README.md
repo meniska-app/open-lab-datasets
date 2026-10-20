@@ -1,8 +1,8 @@
 # 🧬 Open Laboratory Datasets & Bench Constants
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Verified Data](https://img.shields.io/badge/Data-PubChem%20%7C%20Cellosaurus%20%7C%20ANSI--SLAS-00F0FF)](https://menisca.app)
-[![Precision Math](https://img.shields.io/badge/Math-Zero%20Float%20Drift-green)](https://menisca.app)
+[![Verified Data](https://img.shields.io/badge/Data-PubChem%20%7C%20Cellosaurus%20%7C%20ANSI--SLAS-00F0FF)](https://meniska.app)
+[![Precision Math](https://img.shields.io/badge/Math-Zero%20Float%20Drift-green)](https://meniska.app)
 
 A clean, standardized, machine-readable collection of fundamental wet-bench laboratory constants, chemical MWs, ATCC cell line proliferation metrics, and ANSI/SLAS consumable dimensions.
 
@@ -12,13 +12,13 @@ Designed for bioinformaticians, biotech software developers, and research studen
 
 ### 🚀 Looking for the Interactive Lab Companion?
 
-All these datasets power **[Menisca (menisca.app)](https://menisca.app)** — the precision offline-first companion for wet-bench science.
+All these datasets power **[meniska (meniska.app)](https://meniska.app)** — the precision offline-first companion for wet-bench science.
 
 * **Bench Mode:** High-contrast, wake-locked step-by-step guidance designed to be tapped with latex/nitrile gloves.
 * **16 Specialized Calculators:** C1V1 serial dilutions, DNA assembly (Gibson/Golden Gate), mRNA-LNP formulation, ELISA 4PL/5PL regression, HPLC method transfer, and bioreactor scale-up.
 * **Zero-Float Drift:** Native 128-bit decimal arithmetic engine.
 
-👉 **[Launch Free Web App](https://menisca.app)** | Available for Android & iOS.
+👉 **[Launch Free Web App](https://meniska.app)** | Available for Android & iOS.
 
 ---
 
