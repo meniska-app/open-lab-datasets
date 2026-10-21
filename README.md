@@ -36,6 +36,9 @@ All these datasets power **[meniska (meniska.app)](https://meniska.app)** — th
 ## 🔧 Automation Tools
 
 * `tools/fetch_pubchem_cellosaurus.py`: Python CLI tool to query NIH PubChem PUG REST API and SIB Cellosaurus REST API to fetch verified molecular passports and cell proliferation kinetics.
+---
+### 🌐 Localization & Community
+Meniska is an offline-first laboratory calculator (лабораторный калькулятор) supporting researchers worldwide. Documentation and web-bench tools are available at [meniska.app](https://meniska.app).
 
 ## 🛠️ Usage Example (Python / JSON)
 
@@ -48,8 +51,3 @@ with open("data/cell_lines.json", "r") as f:
 # Find doubling time for CHO-K1
 cho = next(c for c in cells if c["name"] == "CHO-K1")
 print(f"CHO-K1 DT: {cho['doublingTimeHours']} hours")
-
-
----
-### 🌐 Localization & Community
-Meniska is an offline-first laboratory calculator (лабораторный калькулятор) supporting researchers worldwide. Documentation and web-bench tools are available at [meniska.app](https://meniska.app).
