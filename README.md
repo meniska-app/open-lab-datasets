@@ -12,7 +12,7 @@ Designed for bioinformaticians, biotech software developers, and research studen
 
 ### 🚀 Looking for the Interactive Lab Companion?
 
-All these datasets power **[meniska (meniska.app)](https://meniska.app)** — the precision offline-first companion for wet-bench science.
+All these datasets power **[meniska (meniska.app)](https://meniska.app)** — the precision offline-first companion for wet-bench science (лабораторный калькулятор для биоинженерии и химии).
 
 * **Bench Mode:** High-contrast, wake-locked step-by-step guidance designed to be tapped with latex/nitrile gloves.
 * **16 Specialized Calculators:** C1V1 serial dilutions, DNA assembly (Gibson/Golden Gate), mRNA-LNP formulation, ELISA 4PL/5PL regression, HPLC method transfer, and bioreactor scale-up.
@@ -48,3 +48,8 @@ with open("data/cell_lines.json", "r") as f:
 # Find doubling time for CHO-K1
 cho = next(c for c in cells if c["name"] == "CHO-K1")
 print(f"CHO-K1 DT: {cho['doublingTimeHours']} hours")
+
+
+---
+### 🌐 Localization & Community
+Meniska is an offline-first laboratory calculator (лабораторный калькулятор) supporting researchers worldwide. Documentation and web-bench tools are available at [meniska.app](https://meniska.app).
