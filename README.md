@@ -1,8 +1,8 @@
 # 🧬 Open Laboratory Datasets & Bench Constants
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Verified Data](https://img.shields.io/badge/Data-PubChem%20%7C%20Cellosaurus%20%7C%20ANSI--SLAS-00F0FF)](https://meniska.app)
-[![Precision Math](https://img.shields.io/badge/Math-Zero%20Float%20Drift-green)](https://meniska.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Data Standards](https://img.shields.io/badge/Data-PubChem%20%7C%20Cellosaurus%20%7C%20ANSI--SLAS-blue)](#whats-inside)
+[![Math Engine](https://img.shields.io/badge/Math-Zero%20Float%20Drift%20(128--bit)-green)](#)
 
 A clean, standardized, machine-readable collection of fundamental wet-bench laboratory constants, chemical MWs, ATCC cell line proliferation metrics, and ANSI/SLAS consumable dimensions.
 
@@ -12,14 +12,14 @@ Designed for bioinformaticians, biotech software developers, and research studen
 
 ### 🚀 Looking for the Interactive Lab Companion?
 
-All these datasets power **[meniska (meniska.app)](https://meniska.app)** — the precision offline-first companion for wet-bench science (лабораторный калькулятор для биоинженерии и химии).
+All these datasets natively power **[Meniska Laboratory Calculator](https://meniska.app)** — the precision offline-first wet-bench companion and workstation (профессиональный лабораторный калькулятор для биоинженерии и аналитической химии).
 
-* **Bench Mode:** High-contrast, wake-locked step-by-step guidance designed to be tapped with latex/nitrile gloves.
-* **16 Specialized Calculators:** C1V1 serial dilutions, DNA assembly (Gibson/Golden Gate), mRNA-LNP formulation, ELISA 4PL/5PL regression, HPLC method transfer, and bioreactor scale-up.
-* **Zero-Float Drift:** Native 128-bit decimal arithmetic engine.
+* **Bench Mode (HUD):** High-contrast, wake-locked step-by-step guidance designed to be operated with latex/nitrile gloves without screen timeouts.
+* **16 Specialized Calculators:** C1V1 serial dilutions, gravimetric molarity, Henderson-Hasselbalch buffer systems, DNA assembly (Gibson / Golden Gate), mRNA-LNP nano-formulations, ELISA 4PL/5PL regression, HPLC method transfer, and bioreactor scale-up.
+* **Zero-Float Drift:** Native 128-bit decimal fixed-point arithmetic engine eliminating IEEE-754 floating-point rounding errors.
+* **ISO 8655 Compliant:** Built-in hardware pipette guard alerting researchers to minimum physical volume limits.
 
-👉 **[Launch Free Web App](https://meniska.app)** | Available for Android & iOS.
-
+👉 **[Launch Free Web Station](https://app.meniska.app)** | Available for Desktop Web, Android & iOS.
 ---
 
 ## 📦 What's Inside
@@ -37,8 +37,15 @@ All these datasets power **[meniska (meniska.app)](https://meniska.app)** — th
 
 * `tools/fetch_pubchem_cellosaurus.py`: Python CLI tool to query NIH PubChem PUG REST API and SIB Cellosaurus REST API to fetch verified molecular passports and cell proliferation kinetics.
 ---
-### 🌐 Localization & Community
-Meniska is an offline-first laboratory calculator (лабораторный калькулятор) supporting researchers worldwide. Documentation and web-bench tools are available at [meniska.app](https://meniska.app).
+
+### 🌐 Multilingual & Scientific Localization
+**Meniska** is an offline-first laboratory computational platform supporting research teams worldwide:
+* **EN:** Precision laboratory calculator, molarity & dilution companion for wet-bench science.
+* **RU:** Высокоточный лабораторный калькулятор, расчет молярности, буферных систем и серийных разведений.
+* **ES:** Calculadora de laboratorio de precisión y preparación de tampones para biología molecular.
+* **DE:** Präzisions-Laborrechner für Molarität, Reihenverdünnungen und Zellkultur-Kinetik.
+
+Official web workstation: [https://meniska.app](https://app.meniska.app)
 
 ## 🛠️ Usage Example (Python / JSON)
 
